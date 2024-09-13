@@ -94,5 +94,5 @@ docker.io/<username-docker>/<nome-da-imagem>:<versao>
 ## Resultados
 
 <p align=justify>
-&emsp; Os resultados deste projeto podem ser encontrados neste [documento](PSPD_TF.pdf).
+&emsp; Os resultados deste projeto podem ser encontrados neste <a href="PSPD_TF.pdf">documento</a>.
 </p>
